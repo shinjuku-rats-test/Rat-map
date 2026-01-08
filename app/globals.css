@@ -8,6 +8,7 @@
 
 @layer base
 @layer border-border
+@apply bg-background
 
 :root {
   /* Pixel art game theme colors inspired by retro gaming aesthetics */
