@@ -6,6 +6,9 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@layer base
+@layer border-border
+
 :root {
   /* Pixel art game theme colors inspired by retro gaming aesthetics */
   --game-bg: oklch(0.95 0.01 85);
