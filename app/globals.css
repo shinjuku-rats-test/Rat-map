@@ -160,7 +160,7 @@
     @layer border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground;
+    @layer bg-background text-foreground;
   }
 
   /* Pixel art styling utilities */
